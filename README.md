@@ -1,0 +1,2 @@
+# MySchool
+Course exercises
